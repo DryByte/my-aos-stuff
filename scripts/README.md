@@ -30,14 +30,13 @@ Add this to your config:
 </details>
 
 <details><summary>customMessages</summary>
-
-- Made by sByte
+Made by sByte
 
 A script for helping with custom messaging (screen messages)
 for BetterSpades and OpenSpades.
 
-- How to use?
-Put this script on the top of the script list in config.toml,
+How to use?
+- Put this script on the top of the script list in config.toml,
 then the functions "connection.send_cmsg(Message, Type)" and "protocol.broadcast_cmsg(Message, Type)"
 
 Message types:
@@ -46,23 +45,22 @@ Message types:
 - Warning
 - Error
 
-- Test commands:
-/csay Type Message
-/cpm Player Type Message
+Test commands:
+- /csay Type Message
+- /cpm Player Type Message
 
 </details>
 
 <details><summary>utils</summary>
-
-- Made by sByte
+Made by sByte
 
 A script where i will add useful functions i use when
 coding scripts, like create_block, destroy_block, etc
 
-- How to use?
-Put this script on the top of the script list in config.toml,
+How to use?
+- Put this script on the top of the script list in config.toml,
 to be able to use the functions.
-
+```
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━> FUNCTIONS <━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
 ┣━> create_block(coords: tuple, save: bool=False, color: tuple=None)┃
@@ -94,5 +92,6 @@ to be able to use the functions.
 ┣> Change fog color in a gradient effect.							┃
 ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━> FUNCTIONS <━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
 
 </details>
