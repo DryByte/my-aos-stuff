@@ -4,8 +4,6 @@ All scripts here is made to be used with [Piqueserver](https://github.com/piques
 ## Scripts Informations
 <details><summary>AutoUpdater<summary>
 
-- Made by sByte
-
 Auto update your scripts, its useful when you use the same
 script in various servers and need to change something
 in a specific server, this is compatible with local files
@@ -30,8 +28,6 @@ Add this to your config:
 </details>
 
 <details><summary>customMessages</summary>
-Made by sByte
-
 A script for helping with custom messaging (screen messages)
 for BetterSpades and OpenSpades.
 
@@ -52,8 +48,6 @@ Test commands:
 </details>
 
 <details><summary>utils</summary>
-Made by sByte
-
 A script where i will add useful functions i use when
 coding scripts, like create_block, destroy_block, etc
 
@@ -93,5 +87,18 @@ to be able to use the functions.
 ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━> FUNCTIONS <━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
+
+</details>
+
+<details><summary>utils</summary>
+Add a vote map for your server! With this players can start a vote writing
+"rtv" on the chat, and voting. Also the map vote will start when the map ends!
+
+Commands:
+- /votemap
+- /suggestmap
+
+Optional dependencie:
+- customMessages
 
 </details>
