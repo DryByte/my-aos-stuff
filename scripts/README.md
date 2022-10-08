@@ -90,7 +90,7 @@ to be able to use the functions.
 
 </details>
 
-<details><summary>utils</summary>
+<details><summary>rtv</summary>
 Add a vote map for your server! With this players can start a vote writing
 "rtv" on the chat, and voting. Also the map vote will start when the map ends!
 
